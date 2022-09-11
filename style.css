@@ -1,0 +1,23 @@
+01161E
+124559
+598392
+AEC3B0
+EFF6E0
+body {
+    background-color: #EFF6E0;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #01161E;
+    color: #EFF6E0;
+}
+.Descricao {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.GestProj {
+    font-size: 20px;
+}
+.DevGames {
+    font-size: 19px;
+}
