@@ -5,19 +5,35 @@ AEC3B0
 EFF6E0
 body {
     background-color: #EFF6E0;
+    padding: 3%;
 }
 
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #01161E;
     color: #EFF6E0;
+    text-align: center;
 }
 .Descricao {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 36%;
+    right: 8%;
+    left: 20%;
 }
 .GestProj {
     font-size: 20px;
 }
 .DevGames {
     font-size: 19px;
+}
+#FotoHenrique {
+    float: left;
+    height: 180px;
+    padding: 10px;
+    background-color: blueviolet;
+}
+.imagecontainer {
+    height: 200px;
+    position: relative;
 }
